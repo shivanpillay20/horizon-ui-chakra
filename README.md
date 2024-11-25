@@ -12,7 +12,7 @@
 
 
 Get started and build your dream web app with Horizon UI, the most trendiest &
-innovative Open Source Admin Template for Chakra UI & React!
+innovative Open Source Admin Template for Chakra UI & React! 
 
 ---
 
