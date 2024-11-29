@@ -4,6 +4,7 @@ import {} from 'react-router-dom';
 import AuthLayout from './layouts/auth';
 import AdminLayout from './layouts/admin';
 import RTLLayout from './layouts/rtl';
+import PatentAnalysisDashboard from "views/admin/patentAnalysis/PatentAnalysisDashboard";
 import {
   ChakraProvider,
   // extendTheme
